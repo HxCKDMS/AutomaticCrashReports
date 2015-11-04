@@ -1,0 +1,2 @@
+# AutomaticCrashReports
+AutoCrashReports
